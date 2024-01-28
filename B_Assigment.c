@@ -7,6 +7,6 @@ int main()
     char phoneNo[40]="0758541682";
     printf("My name is %s\n", Name);
     printf("My student number %s\n", sNo);
-    printf("My phone number is %s\n", phoneNo);
+    printf("My phone number %s\n", phoneNo);
     return 0;
 }
