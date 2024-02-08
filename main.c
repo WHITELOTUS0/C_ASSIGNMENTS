@@ -13,7 +13,7 @@ int main(){
 
     }
     printf("\n");
-    printf("==============\n\n");
+    printf("=============\n\n");
    printf("Number\tNumber\tProduct\n");
 
    }
